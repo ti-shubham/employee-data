@@ -15,4 +15,3 @@ Driver class: org.h2.Driver JDBC URL: jdbc:h2:mem:employeeData User Name: sa Pas
 mvn spring-boot:run Running the application with IDE There are several ways to run a Spring Boot application on your local machine. One way is to execute the main method in the com.example.springboot.cruddemo.CruddemoApplication class from your IDE.
 
 Download the zip or clone the Git repository. Unzip the zip file (if you downloaded one) Open Command Prompt and Change directory (cd) to folder containing pom.xml Open Eclipse File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip Select the project Choose the Spring Boot Application file (search for @SpringBootApplication) Right Click on the file and Run as Java Application
-[Wissen-Assignment.zip]
